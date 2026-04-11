@@ -1,0 +1,35 @@
+{
+  "name": "Project Hub · emeride7",
+  "short_name": "ProjectHub",
+  "description": "Tableau de bord GitHub personnel d'Éméride Djivoessoun",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "lang": "fr",
+  "categories": ["developer", "productivity"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Mes projets",
+      "short_name": "Projets",
+      "description": "Voir tous mes projets GitHub",
+      "url": "/"
+    }
+  ]
+}
